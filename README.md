@@ -1,1 +1,3 @@
-# leena1
+to find the roots of given quadratic equation.
+
+
